@@ -1,5 +1,5 @@
 <table align="center">
-<tr><td align="center" width="100">
+<tr><td align="center" width="10000">
 
 <img src = "./Graphical Abstract.jpg"= "680">
 

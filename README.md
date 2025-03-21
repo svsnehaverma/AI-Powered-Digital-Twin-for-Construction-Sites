@@ -5,7 +5,7 @@ This project aims to develop Aquila, an AI-powered Digital Twin platform that tr
 
 Finally, This work presents multi-label ActDNN, a novel neural network for activity recognition on construction sites, addressing limitations in vision-based methods reliant on large, structured datasets. ActDNN facilitates robust multi-label activity recognition through independent learning and sequential learning. In independent learning, the network was trained and tested on an independent set of frames, achieving an accuracy of 99.82%. In sequential learning, sequential information was utilized to predict the sequential activities of an excavator and two trucks, achieving prediction accuracies of 97.79%, 89.67%, and 86.48%, respectively. This study enhances vision-based methods for automating sequential activity and productivity analysis, offering scalable and efficient construction equipment monitoring. 
 
-                                                 ![Screenshot from 2025-03-21 11-59-15](https://github.com/user-attachments/assets/b20ea316-c7a6-4cab-aea7-acd921033e7f)
+  ![Screenshot from 2025-03-21 11-59-15](https://github.com/user-attachments/assets/b20ea316-c7a6-4cab-aea7-acd921033e7f)
 
 
 

@@ -1,3 +1,5 @@
+<table align="center">
+<tr><td align="center" width="10000">
 <img src="./Graphical Abstract.jpg" width="280">
 
 

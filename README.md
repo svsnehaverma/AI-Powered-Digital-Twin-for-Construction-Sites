@@ -1,6 +1,7 @@
 <table align="center">
 <tr><td align="center" width="10000">
-<img src="./Graphical Abstract.jpg" width="280">
+  
+<img src="./Graphical Abstract.jpg" width="480">
 
 
 # <strong> AI-Powered-Digital-Twin-for-Construction-Sites  </strong>
